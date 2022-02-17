@@ -19,4 +19,4 @@ To use this image:
 
 If you want to join my server:
 
-    http://fabiovalentino.it:8080
+    <a href="http://fabiovalentino.it:8080>http://fabiovalentino.it:8080</a>
