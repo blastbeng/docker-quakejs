@@ -14,3 +14,4 @@ To use this image:
     
     launch docker-compose up -d on root dir
     
+    go to yourip:8080 and start fraggin' :)
