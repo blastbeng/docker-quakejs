@@ -19,5 +19,3 @@ To use this image:
 Optionally you can change the http port in the docker-compose.yml.
 
 The default IP:PORT is 127.0.0.1:8080. The IP can be changed in the server.cfg before building the image.
-
-If you want to join my server: http://fabiovalentino.it:8081
