@@ -17,4 +17,4 @@ To use this image:
     go to yourip:8080 and start fraggin' :)
 
 
-If you want to join my server: http://fabiovalentino.it:8080
+If you want to join my server: http://fabiovalentino.it:8081
