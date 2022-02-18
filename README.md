@@ -12,9 +12,9 @@ To use this image:
     
     launch ./build.sh
     
-    launch docker-compose up -d on root dir
+    launch docker-compose up -d on root dir (Optionally you can change the http port in the docker-compose.yml)
     
-    go to yourip:8080 and start fraggin' :)
+    go to yourip:yourport (default port is 8080) and start fraggin' :)
 
 
 If you want to join my server: http://fabiovalentino.it:8081
